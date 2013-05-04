@@ -11,6 +11,7 @@ SUPERUSER_PACKAGE_PREFIX := com.android.settings.rb.superuser
 # AOKP Packages
 PRODUCT_PACKAGES += \
     AOKPtips \
+    Apollo \
     AppWidgetPicker \
     GooManager \
     LatinImeDictionaryPack \
