@@ -1,6 +1,7 @@
 PRODUCT_MAKEFILES := $(LOCAL_DIR)/d2att.mk \
 $(LOCAL_DIR)/d2tmo.mk \
 $(LOCAL_DIR)/d2vzw.mk \
+$(LOCAL_DIR)/geehrc4g_spr_us.mk \
 $(LOCAL_DIR)/grouper.mk \
 $(LOCAL_DIR)/i605.mk \
 $(LOCAL_DIR)/i9100.mk \
